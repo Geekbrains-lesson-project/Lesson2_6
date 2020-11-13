@@ -60,6 +60,5 @@ public class Threads {
         try {
             sock.close();
         } catch (Exception e) {}
-
     }
 }

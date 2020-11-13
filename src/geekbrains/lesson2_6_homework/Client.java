@@ -24,7 +24,6 @@ public class Client {
             e.printStackTrace();
         }
     }
-
     public static void main(String[] args) {
         new Client();
     }
